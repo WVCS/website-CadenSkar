@@ -1,3 +1,28 @@
-body {
 
+
+body {background-color: peachpuff;
+}
+img {
+border: dotted;
+	border-color: darkorchid;
+	
+}
+
+h1 { 
+color: chocolate;
+	text-decoration-line: overline;
+}
+
+ul {list-style-type: upper-alpha;
+	background-color: lightgrey;
+	width: 200px;
+	margin: 0;
+	padding: 0;
+}
+li a{display: block;
+	color:coral;
+	padding: 8px 16px;
+}
+li a:hover {
+	background-color: mintcream;
 }
